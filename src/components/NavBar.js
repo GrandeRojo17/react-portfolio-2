@@ -7,7 +7,7 @@ const Navbar = () => {
     }
     return (
         <nav>
-            <h2>👨🏻‍🦰<a href="/" >David Yennerell</a>
+            <h2>👨🏻‍🦰<a href="https://granderojo17.github.io/react-portfolio-2/" >David Yennerell</a>
             </h2>
             <ul className="nav-links">
                 <Link to="/">
