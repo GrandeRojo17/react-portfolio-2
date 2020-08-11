@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-2/static/css/main.95e449fc.chunk.css",
+    "main.js": "/react-portfolio-2/static/js/main.5d4c6f4b.chunk.js",
+    "main.js.map": "/react-portfolio-2/static/js/main.5d4c6f4b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-2/static/js/runtime-main.d309cc5c.js",
+    "runtime-main.js.map": "/react-portfolio-2/static/js/runtime-main.d309cc5c.js.map",
+    "static/js/2.e8334190.chunk.js": "/react-portfolio-2/static/js/2.e8334190.chunk.js",
+    "static/js/2.e8334190.chunk.js.map": "/react-portfolio-2/static/js/2.e8334190.chunk.js.map",
+    "index.html": "/react-portfolio-2/index.html",
+    "precache-manifest.7554b87ac03d5da020ea478e46041e3c.js": "/react-portfolio-2/precache-manifest.7554b87ac03d5da020ea478e46041e3c.js",
+    "service-worker.js": "/react-portfolio-2/service-worker.js",
+    "static/css/main.95e449fc.chunk.css.map": "/react-portfolio-2/static/css/main.95e449fc.chunk.css.map",
+    "static/js/2.e8334190.chunk.js.LICENSE.txt": "/react-portfolio-2/static/js/2.e8334190.chunk.js.LICENSE.txt",
+    "static/media/fitnessTracker_Pic02.PNG": "/react-portfolio-2/static/media/fitnessTracker_Pic02.08565fc9.PNG",
+    "static/media/snapchat_bitmoji_clear_transparent_faceOnly_cropped.png": "/react-portfolio-2/static/media/snapchat_bitmoji_clear_transparent_faceOnly_cropped.bbaa2941.png",
+    "static/media/weatherDash_01.PNG": "/react-portfolio-2/static/media/weatherDash_01.2cdd6cee.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d309cc5c.js",
+    "static/js/2.e8334190.chunk.js",
+    "static/css/main.95e449fc.chunk.css",
+    "static/js/main.5d4c6f4b.chunk.js"
+  ]
+}
